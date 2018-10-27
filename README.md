@@ -4,6 +4,7 @@
 ## 该源码主要是用于分析理解，主要代码添加了注释；注意改源码直接运行可能会出现问题，由于在注释中可能导致程序出现错误，所以运行尽量用源代码。
 ## ssd算法分析文档：http://hometown.group/2018/10/06/ssd/
 ## PASCAL数据集：http://host.robots.ox.ac.uk/pascal/VOC/voc2007/
+## 数据标记软件：https://pan.baidu.com/s/1v48AgbI6jhvkjTk6uiyMEA 提取码: xyqk
 ## win_pycharm测试文件：test.py，注意修改文件路径。
 ```
 
